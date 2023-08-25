@@ -1,4 +1,4 @@
-![Project Preview]([https://www.canva.com/design/DAFksBLdp_M/watch?embed](https://www.canva.com/design/DAFksBLdp_M/watch))
+
 
 
 <h1 align="center">Hi 👋, I'm Mohammed Aljaroudi</h1>
